@@ -1,0 +1,50 @@
+[
+    {
+        "id": 111,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae ea architecto eum ad fuga sed dicta ab ut. Vitae consequatur facere doloribus sit odit magnam!",
+        "name": "ENGINE DIAGNOSTIC",
+        "price": 2500,
+        "time": "17 hours",
+        "img": "https://i.ibb.co/DY0GSSd/1.jpg"
+    },
+    {
+        "id": 112,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae ea architecto eum ad fuga sed dicta ab ut. Vitae consequatur facere doloribus sit odit magnam!",
+        "name": "WHEEL ALIGMENT",
+        "price": 3500,
+        "time": "1 day 12 hours",
+        "img": "https://i.ibb.co/9gM34nY/2.jpg"
+    },
+    {
+        "id": 113,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae ea architecto eum ad fuga sed dicta ab ut. Vitae consequatur facere doloribus sit odit magnam!",
+        "name": "OIL CHANGING",
+        "price": 4500,
+        "time": "8 hours",
+        "img": "https://i.ibb.co/MVwXqTK/3.jpg"
+    },
+    {
+        "id": 114,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae ea architecto eum ad fuga sed dicta ab ut. Vitae consequatur facere doloribus sit odit magnam!",
+        "name": "Replace Tire",
+        "price": 2000,
+        "time": "24 hours",
+        "img": "https://i.ibb.co/NWzzPC6/4.jpg"
+    },
+    {
+        "id": 115,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae ea architecto eum ad fuga sed dicta ab ut. Vitae consequatur facere doloribus sit odit magnam!",
+        "name": "Replace Tire",
+        "price": 9000,
+        "time": "10 hours",
+        "img": "https://i.ibb.co/1nvNjvJ/5.jpg"
+    },
+    {
+        "id": 116,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quae ea architecto eum ad fuga sed dicta ab ut. Vitae consequatur facere doloribus sit odit magnam!",
+        "name": "Replace Tire",
+        "price": 8600,
+        "time": "12 hours",
+        "img": "https://i.ibb.co/MVnfMsy/6.jpg"
+    }
+]
